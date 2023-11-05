@@ -1,0 +1,9 @@
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\Release\UnityExplorer.MelonLoader.IL2CPP.net6preview.interop\UnityExplorer.ML.IL2CPP.net6preview.interop.deps.json
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\Release\UnityExplorer.MelonLoader.IL2CPP.net6preview.interop\UnityExplorer.ML.IL2CPP.net6preview.interop.dll
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\src\obj\ML_Cpp_net6_interop\UnityExplorer.csproj.AssemblyReference.cache
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\src\obj\ML_Cpp_net6_interop\UnityExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\src\obj\ML_Cpp_net6_interop\UnityExplorer.csproj.CoreCompileInputs.cache
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\src\obj\ML_Cpp_net6_interop\UnityExplorer.csproj.CopyComplete
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\src\obj\ML_Cpp_net6_interop\UnityExplorer.ML.IL2CPP.net6preview.interop.dll
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\src\obj\ML_Cpp_net6_interop\refint\UnityExplorer.ML.IL2CPP.net6preview.interop.dll
+C:\Users\mikqr\Downloads\UnityExplorer-master\UnityExplorer-master\src\obj\ML_Cpp_net6_interop\ref\UnityExplorer.ML.IL2CPP.net6preview.interop.dll
